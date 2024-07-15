@@ -1,0 +1,14 @@
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
