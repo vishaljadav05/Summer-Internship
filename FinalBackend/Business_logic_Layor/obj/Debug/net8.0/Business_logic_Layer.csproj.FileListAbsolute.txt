@@ -1,0 +1,15 @@
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.deps.json
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\bin\Debug\net8.0\Business_logic_Layer.pdb
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.AssemblyReference.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfoInputs.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.AssemblyInfo.cs
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.csproj.CoreCompileInputs.cache
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business.B10BAD81.Up2Date
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\refint\Business_logic_Layer.dll
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\Business_logic_Layer.pdb
+D:\Tatvasoft\FinalBackend\CIPlatfromWebAPI_PostgreSQL-master\Business_logic_Layer\obj\Debug\net8.0\ref\Business_logic_Layer.dll
